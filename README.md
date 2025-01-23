@@ -20,6 +20,7 @@ JWT_EXPIRE_HOURS=24
 REFRESH_TOKEN_EXPIRE_DAYS=7 
 
 run
+
 go run main.go
 
 if success, you'll see similar result

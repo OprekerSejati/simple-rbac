@@ -24,9 +24,12 @@ run
 go run main.go
 
 if success, you'll see similar result
+
 2025/01/23 14:44:22 Server starting on :8080
 
 for more detail please refer to files:
+
 1. docs/specification.md
+   
 2. docs/docs.md
 
